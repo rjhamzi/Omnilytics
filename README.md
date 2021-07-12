@@ -18,3 +18,6 @@ Note3: Use python Requests module to do this only. (Selenium is not accepted).
 Note4: Create a docker image (yml file) which performs this task upon launch and save the output in the host machine (not inside the docker image itself).
 
 Note5: Host the whole project in a GitHub repository and share the link.
+
+
+Task is written in python3, and using its module requests, for running the task please write : python zalora_scraper.py
